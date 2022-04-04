@@ -6,4 +6,4 @@
 
 
 
-**[Смотреть](https://grant-inna.github.io/Image_gallery/index.html)**
+**[Смотреть](https://grant-inna.github.io/Image_gallery/)**
