@@ -3,3 +3,7 @@
 
 
 Написано без использования JS, только на CSS и HTML (использую Less и Jade для своего удобства). Не адаптивно, ибо делалось для дипломного проекта [редизайна сайта Ясно](https://www.behance.net/gallery/130922239/redizajn-i-dorabotka-sajta-jasno/modules/754430157)  
+
+
+
+**[Смотреть](https://grant-inna.github.io/Image_gallery/index.html)**
